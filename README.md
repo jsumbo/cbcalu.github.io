@@ -1,1 +1,1 @@
-The official website for the ALU Claude Builder Club, built with Vanilla HTML, CSS and Javascript.
+The official website for the ALU Claude Builder Club, built with Vanilla HTML, CSS and Javascript. No frameworks or libraries. 
